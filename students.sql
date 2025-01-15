@@ -47,8 +47,6 @@ INSERT INTO `students` (`id`, `name`, `age`, `grade`, `hall_ticket_number`, `sta
 (4, 'Alice Johnson', 20, 'A', 'HTN12345', 'Pass'),
 (5, 'Bob Smith', 21, 'B+', 'HTN12346', 'Fail'),
 (6, 'Carol White', 22, 'A-', 'HTN12347', 'Pass'),
-(7, 'Sai Vemanarao', 24, 'B+', 'HT1736637255', 'Pass'),
-(8, 'suresh Kummmar', 25, 'B+', '173667137256', 'PASS');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
